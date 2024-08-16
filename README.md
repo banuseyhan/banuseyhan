@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Banu</h2>
 
 - 🌱 I’m currently learning **React and React Native**
-- 📫 How to reach me: **banuaskahraman@gmail.com**
+- 📫 How to reach me: **banuseyhandev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
