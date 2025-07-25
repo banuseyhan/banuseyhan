@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Banu 👩‍💻</h1>
 <p align="center">
-  Product Developer • AI Engineer • Prompt Engineer
+  Product Developer
 </p>
 
 ---
