@@ -2,10 +2,6 @@
 <h1 align="center">🌸 Hi, I'm <span style="color:#f9a8d4;">Banu</span> 👩‍💻</h1>
 <h3 align="center">Crafting calm, intelligent, and human-centered digital experiences 🪷</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVvZWVqYzB6dWdpZGdya2dtajh1NGgzcXAzZ2djMGEzMjVmdWh5ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MdA16VIoXKKxNE8Stk/giphy.gif" width="360" alt="soft female coding gif">
-</p>
-
 ---
 
 ### 🌷 About Me
